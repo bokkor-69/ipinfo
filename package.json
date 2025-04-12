@@ -4,7 +4,7 @@
   "description": "Get device, IP, and phone model info",
   "main": "deviceinfo.js",
   "scripts": {
-    "start": "node deviceinfo.js"
+    "start": "index.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
